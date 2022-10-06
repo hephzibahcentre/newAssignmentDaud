@@ -1,0 +1,8 @@
+C:\Users\Joyce\source\repos\formWithValidation\formWithValidation\bin\Debug\formWithValidation.dll
+C:\Users\Joyce\source\repos\formWithValidation\formWithValidation\bin\Debug\formWithValidation.pdb
+C:\Users\Joyce\source\repos\formWithValidation\formWithValidation\obj\Debug\formWithValidation.csproj.AssemblyReference.cache
+C:\Users\Joyce\source\repos\formWithValidation\formWithValidation\obj\Debug\formWithValidation.UserControl1.resources
+C:\Users\Joyce\source\repos\formWithValidation\formWithValidation\obj\Debug\formWithValidation.csproj.GenerateResource.cache
+C:\Users\Joyce\source\repos\formWithValidation\formWithValidation\obj\Debug\formWithValidation.csproj.CoreCompileInputs.cache
+C:\Users\Joyce\source\repos\formWithValidation\formWithValidation\obj\Debug\formWithValidation.dll
+C:\Users\Joyce\source\repos\formWithValidation\formWithValidation\obj\Debug\formWithValidation.pdb
